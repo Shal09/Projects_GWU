@@ -11,3 +11,6 @@ Kaggle: https://www.kaggle.com/datasets/alexandrakim2201/spotify-dataset
 52,702 rows and 2 columns
 
 Text Contains reviews of application and label  are "POSITIVE" or "NEGATIVE".
+
+
+DALL·E 2024-12-13 15.22.55 - A clean and modern infographic illustrating sentiment analysis and text classification on Spotify reviews using NLP. The image features concise text i
