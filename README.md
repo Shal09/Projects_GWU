@@ -8,5 +8,6 @@ an LSTM model are employed to classify the sentiment of reviews as positive and 
 Dataset Description: Dataset is taken from
 Kaggle: https://www.kaggle.com/datasets/alexandrakim2201/spotify-dataset 
 
-52,702 rows and 2 columns Text and label.
-Text Contains reviews of application and label "POSITIVE" or "NEGATIVE" based on its sentiment.
+52,702 rows and 2 columns
+
+Text Contains reviews of application and label  are "POSITIVE" or "NEGATIVE".
